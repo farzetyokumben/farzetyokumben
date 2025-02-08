@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://discord.gg/duman" target="_blank">
-    <img height="25" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(32).png?raw=true"  />
+    <img height="30" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(32).png?raw=true"  />
   </a>
 </div>
 
