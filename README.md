@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="25" src="https://i.hizliresim.com/p8vskv1.png"  />
+  <img height="25" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(32).png?raw=true"  />
 </div>
 
 ###
