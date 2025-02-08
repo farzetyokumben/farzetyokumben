@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/4CgKB3t/your-image.jpg"  />
+  <img height="150" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(17)-photoaidcom-cropped%20(1).png?raw=true"  />
 </div>
 
 ###
