@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(17)-photoaidcom-cropped%20(1).png?raw=true"  />
+  <img height="150" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/berke.png?raw=true"  />
 </div>
 
 ###
@@ -44,6 +44,6 @@
 
 <div align="center">
   <a href="https://discord.gg/duman" target="_blank">
-    <img height="30" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/duman.png?raw=true"  />
+    <img height="30" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/duman2.png?raw=true"  />
   </a>
 </div>
