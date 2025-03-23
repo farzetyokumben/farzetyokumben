@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/farzetyokumben/farzetyokumben/blob/main/berke.png?raw=true"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/198328021?v=4"  />
 </div>
 
 ###
